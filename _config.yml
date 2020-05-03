@@ -94,7 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "JuwonBaek"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :![git](https://user-images.githubusercontent.com/61731386/80910870-7c9f7c80-8d6d-11ea-8deb-082b151aa5ad.jpg)
+ # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am just...university student."
   location         : "Busan-korea"
   email            :
